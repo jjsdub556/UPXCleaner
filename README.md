@@ -1,2 +1,2 @@
 # UPXCleaner
-Tiny script to hide UPX compression
+Tiny script to compress binary with UPX and hide UPX compression
